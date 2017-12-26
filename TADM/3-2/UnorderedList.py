@@ -1,3 +1,12 @@
+#!/usr/bin/env python3
+'''
+3-2.
+
+'''
+
+import sys, os
+
+
 class UnorderedList:
     def __init__(self):
         self.head = None

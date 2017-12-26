@@ -1,3 +1,10 @@
+#!/usr/bin/env python 3
+'''
+3-2
+'''
+
+import sys, os
+
 class Node:
     def __init__(self, initdata):
         self.data = initdata
